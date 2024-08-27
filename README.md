@@ -143,3 +143,22 @@ ADSP(데이터 분석 준 전문가)
 ### AI의 강한 목적 지향에 따른 경영전략 자동화의 문제점
 - AI가 요약을 할때 정보의 손실이 필연적으로 일어날 수 밖에 없다. 이는 강한 목적 지향성이 강력한 원인이다. 이 정보 손실이 AI가 사용자에게 확증 편향 및 경향성을 증가시키는 주요 원인이 된다고 생각해 이를 증명하는 연구도 기획중이다.
 - AI의 목적 지향성을 완화시키는 맥락 인식 레이어 및 프레임 워크를 추가하여 이를 해결하는 논문 기획중
+
+# 7. 관심 키워드
+- AI 경영
+- UX(소비자 및 사용자 경험)
+- HCI
+- LLM
+- AI(AI 기술 도입 등)에 따른 영향 및 영향 설명
+- 소셜 데이터
+- 데이터 사이언스, 머신러닝, AI, 추천시스템, XAI 등
+
+# 8. Skills
+- language: Python, Java, Html, SQL
+- Os & server: window, Linux, Linux server, AWS, GCP
+- Data: pandas, numpy
+- ML & DL: scikit-learn, tensorflow, pytorch, keras, hugging face
+- LLM: NLP, Rag, fine-tuning, prompt-engineering, LangChain, Lora
+- version: git, github
+- web: streamlit, fast api
+- Etc..: gpt, MLops(air flow)
