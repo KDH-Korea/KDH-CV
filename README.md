@@ -156,7 +156,7 @@ ADSP(데이터 분석 준 전문가)
 # 8. Skills
 - language: Python, Java, Html, SQL
 - Os & server: window, Linux, Linux server, AWS, GCP
-- Data: pandas, numpy
+- Data: pandas, numpy, Tableau
 - ML & DL: scikit-learn, tensorflow, pytorch, keras, hugging face
 - LLM: NLP, Rag, fine-tuning, prompt-engineering, LangChain, Lora
 - version: git, github
